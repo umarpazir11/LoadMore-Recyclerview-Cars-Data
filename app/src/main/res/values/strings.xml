@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auto1 Coding Test</string>
+
+
+    <string name="manufacturer">Manufacturer : %1$s</string>
+    <string name="model">Model : %1$s</string>
+    <string name="year">Year : %1$s</string>
+
+</resources>
